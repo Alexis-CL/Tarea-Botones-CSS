@@ -66,7 +66,7 @@ margin: 20px;
     font-family: fantasy;
    }
    .animacion:hover{ 
-background: rgba(0,0,0,0);
+background: rgba(0, 0, 0, 0.781);
 background: transparent;
   color:black;
   font-weight: 1000px;
